@@ -1,7 +1,7 @@
 {
   "name": "auditorio-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
