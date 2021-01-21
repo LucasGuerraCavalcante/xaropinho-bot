@@ -4,6 +4,7 @@ const { prefix } = require('../utils/config.json');
 module.exports = {
 
     "commandsArray": [
+        `${prefix}ajuda`,
         `${prefix}uepa`,
         `${prefix}pare`,
         `${prefix}cavalo`,
@@ -29,17 +30,21 @@ module.exports = {
         `${prefix}tarzan`, 
         `${prefix}ratinho`,  // <--- Problema
         `${prefix}papelao`,  // <--- Problema
-        `${prefix}rodaaroda`,
-        `${prefix}perdeutudo`,
+        `${prefix}rodaaroda`, // <--- Problema
+        `${prefix}perdeutudo`, // <--- Problema
         `${prefix}telesena`,
         `${prefix}piao-sbt`,
-        `${prefix}ai`,
+        `${prefix}ai`, // <--- Problema
         `${prefix}coice`,
+        `${prefix}brincadeira`,
         `${prefix}chaves-xylophone`,
         `${prefix}chaves-pancada`,  
         `${prefix}chaves-risada`  
     ],
     "commandsData": [
+        {
+            "key": "ajuda"
+        },
         {
             "key": "uepa",
             "message":"Uêpa!",
@@ -194,6 +199,11 @@ module.exports = {
             "key": "coice",
             "message":"Coice do cavalo!",
             "url":"https://www.youtube.com/watch?v=zTEBYSkJeOs"
+        },
+        {
+            "key": "brincadeira",
+            "message":"É brincadeira, hein!",
+            "url":"https://www.youtube.com/watch?v=C57kQv_hd40"
         },
         {
             "key": "chaves-xylophone",
