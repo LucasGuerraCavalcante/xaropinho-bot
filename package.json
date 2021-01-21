@@ -1,8 +1,8 @@
 {
-  "name": "auditorio-bot",
+  "name": "xarpinho-bot",
   "version": "1.0.0",
   "main": "main.js",
-  "license": "MIT",
+  "description": "Bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira.",
   "scripts": {
     "start": "node main.js"
   },
@@ -15,5 +15,25 @@
     "ffmpeg-static": "^4.2.7",
     "fluent-ffmpeg": "^2.1.2",
     "ytdl-core": "^4.4.3"
+  },
+  "author": "LucasGuerraCavalcante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasGuerraCavalcante/xaropinho-bot/issues"
+  },
+  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGuerraCavalcante/xaropinho-bot.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js",
+    "discord audio bot",
+    "javascript"
+  ],
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
   }
 }
