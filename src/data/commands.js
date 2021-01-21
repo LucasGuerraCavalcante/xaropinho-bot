@@ -82,12 +82,12 @@ module.exports = {
         },
         {
             "key": "irra",
-            "message":"IIIHHHRRAAAAA!!!!!",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=uaKKjT_d0jI"
         },
         {
             "key": "queisso",
-            "message":"Que isso meu filho, calma...",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=ou3BlCaj1DM"
         },
         {
@@ -112,12 +112,12 @@ module.exports = {
         },
         {
             "key": "ronaldo",
-            "message":"ronaldo",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=oabpxqp0zYQ"
         },
         {
             "key": "patrao",
-            "message":"Esse é meu patrão hehehein",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=KFdFEGpFXyg"
         },
         {
@@ -127,7 +127,7 @@ module.exports = {
         },
         {
             "key": "danca",
-            "message":"Dança gatinho, dança!",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=OutIegT8HBg"
         },
         {
@@ -162,22 +162,22 @@ module.exports = {
         },
         {
             "key": "ratinho",
-            "message":"Rrratinhoooo..",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=-d6wB4KyuUk"
         },
         {
             "key": "papelao",
-            "message":"Que papelão hein?! kkkkk",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=US9QhKiEg6w"
         },
         {
             "key": "rodaaroda",
-            "message":"Roda a roda...",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=KAle05huxKs"
         },
         {
             "key": "perdeutudo",
-            "message":"Perdeu tudo...",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=g2L1TJFALd4"
         },
         {
@@ -192,7 +192,7 @@ module.exports = {
         },
         {
             "key": "ai",
-            "message":"AAII!",
+            "message":"Infelizmente esse comando está temporariamente insdisponível",
             "url":"https://www.youtube.com/watch?v=npYVf0gRgb0"
         },
         {
