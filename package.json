@@ -1,0 +1,15 @@
+{
+  "name": "auditorio-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "discordjs/Commando",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.4.3"
+  }
+}
