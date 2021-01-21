@@ -1,10 +1,14 @@
 
 const Discord = require('discord.js');
 
-const commands = require('./commands/player')
+require('dotenv').config();
 
-const AUD_BOT_TOKEN = require('./utils/keys')
-bot_token = AUD_BOT_TOKEN
+const commands = require('./src/commands/player')
+
+// const AUD_BOT_TOKEN = require('./utils/keys')
+// bot_token = AUD_BOT_TOKEN
+
+const bot_token = process.env.DISCORD_TOKEN;
 
 const client = new Discord.Client();
 
