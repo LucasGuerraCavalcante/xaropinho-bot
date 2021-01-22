@@ -43,6 +43,7 @@ module.exports = {
     } 
     else {
         receivedMessage.reply("Nheeeee.... Comando inválido!");
+        receivedMessage.reply("Digite >ajuda para mais informaçãoes!");
     }
   }
 }
