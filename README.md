@@ -149,7 +149,7 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 
 Alguns dos comandos ainda não estão funcionando propriamente :C 
 
-### Repositório no GitHub
+## Colabore com o projeto
 
 Dúvidas?
 Bugs?
