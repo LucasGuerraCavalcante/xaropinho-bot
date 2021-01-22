@@ -33,13 +33,13 @@ client.on('message', recivedMessage => commands.soundEffectsPlayer(recivedMessag
 // Nao consegui achar melhor solucao para isso no momento.
 // Erro em questao: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch.
 
-const app = express();
-const port = 5001;
+// const app = express();
+// const port = 5001;
 
-app.get('/', async (req, res) => {
-    res.send('https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/README.md')
-});
+// app.get('/', async (req, res) => {
+//     res.send('https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/README.md')
+// });
 
-app.listen(port, () => console.log(`App listening on port ${port}!`));
+// app.listen(port, () => console.log(`App listening on port ${port}!`));
 
 // -------------------------------------------------------------------------------------------------
