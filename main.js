@@ -25,23 +25,8 @@ client.once('disconnect', () => {
 
 client.login(bot_token)
 
-client.on('message', recivedMessage => commands.soundEffectsPlayer(recivedMessage))
-
 // -------------------------------------------------------------------------------------------------
 
-// Tive que fazer isso por conta de um erro no Heroku.
-// Nao consegui achar melhor solucao para isso no momento.
-// Erro em questao: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch.
-
-// const express = require('express');
-
-// const app = express();
-// const port = 5001;
-
-// app.get('/', async (req, res) => {
-//     res.send('https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/README.md')
-// });
-
-// app.listen(port, () => console.log(`App listening on port ${port}!`));
+client.on('message', recivedMessage => commands.soundEffectsPlayer(recivedMessage))
 
 // -------------------------------------------------------------------------------------------------
