@@ -2,12 +2,6 @@
 const { prefix } = require('../utils/config.json');
 
 module.exports = `
-
-    **AJUDA AQUI!!!**
-
-    **Observação:** Esse bot ainda está em fase de desenvolvimento, 
-    portando bugs e comportamentos inesperados podem ser comuns.
-
     **Como utilizar** 
 
     Para utilizar o bot, é preciso estar conectado a algum canal de voz.
@@ -32,13 +26,6 @@ module.exports = `
     https://discord.com/api/oauth2/authorize?client_id=801642174093590538&permissions=3665472&scope=bot
 
     **Repositório no GitHub** 
-
-    Dúvidas?
-    Bugs?
-    Sugestões de áudios?
-    Quer colaborar com o desenvolvimento do bot?
-
-    => Acesse o repositório do bot no GitHub e se comunique conosco.
 
     https://github.com/LucasGuerraCavalcante/xaropinho-bot
 
