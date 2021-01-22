@@ -20,7 +20,11 @@ Após conectar o bot a algum servidor do Discord, com o link disponibilizado no 
 
 Feito isso, basta utilizar ```>comando``` para utilizar algum comando. 
 
-**Exemplo:** ```>cavalo``` 
+**Exemplo:** ```>rapaz```
+
+![rapaz](https://i.imgur.com/WOLZZZ4.png)
+
+... Aí ele toca o áudio do rapaz ... 
 
 ## Lista de comandos
 
