@@ -11,7 +11,7 @@ module.exports = `
     **Como utilizar** 
 
     Para utilizar o bot, é preciso estar conectado a algum canal de voz.
-    O precisa de permissão tanto para falar, quanto para se conectar, no canal em questão.
+    O bot precisa de permissão tanto para falar, quanto para se conectar, no canal em questão.
 
     Feito isso, basta utilizar \`${prefix}comando\` para utilizar algum comando. 
 
@@ -26,7 +26,7 @@ module.exports = `
 
     **Link de acesso** 
 
-    Com esse link é possível adicionar esse bot a outros servidores.
+    Com esse link é possível adicionar esse bot aos seus servidores.
     Além de poder compartilhar o bot com seus amigos.
 
     https://discord.com/api/oauth2/authorize?client_id=801642174093590538&permissions=3665472&scope=bot
