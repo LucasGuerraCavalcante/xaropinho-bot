@@ -32,7 +32,7 @@ module.exports = {
           .addField('Repositório GitHub: ', 'https://github.com/LucasGuerraCavalcante/xaropinho-bot')
           .addField('Dúvidas? Sugestões? Bugs?: ', 'lucasguerratee@gmail.com');
 
-          receivedMessage.reply(ajudaEmbed);
+          receivedMessage.channel.send(ajudaEmbed);
         // receivedMessage.reply(ajuda);
       return;
     }
