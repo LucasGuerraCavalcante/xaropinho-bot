@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 
 require('dotenv').config();
 
-const commands = require('./src/commands/player');
+const commands = require('./src/functions/player');
 
 const bot_token = process.env.DISCORD_TOKEN;
 
@@ -23,10 +23,10 @@ client.once('disconnect', () => {
     console.log('Disconnect!');
 });
 
-client.login(bot_token)
+client.login(bot_token);
 
 // -------------------------------------------------------------------------------------------------
 
-client.on('message', recivedMessage => commands.soundEffectsPlayer(recivedMessage))
+client.on('message', recivedMessage => commands.soundEffectsPlayer(recivedMessage));
 
 // -------------------------------------------------------------------------------------------------
