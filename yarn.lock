@@ -212,10 +212,12 @@ detect-libc@^1.0.3:
   integrity sha1-+hN8S9aY7fVc1c0CrFWfkaTEups=
 
 discord.js-commando@discordjs/Commando:
-  version "0.11.0-dev"
-  resolved "https://codeload.github.com/discordjs/Commando/tar.gz/3cd5f8c763f0d644432eeba59f831eb942de7bd4"
+  version "0.11.1"
+  resolved "https://codeload.github.com/discordjs/Commando/tar.gz/9c2e5405fdb9a1006e6eb7554e18d0861a4c857f"
   dependencies:
     common-tags "^1.8.0"
+    emoji-regex "^9.2.0"
+    is-promise "^4.0.0"
     require-all "^3.0.0"
 
 discord.js@^12.5.1:
@@ -236,6 +238,11 @@ dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
+
+emoji-regex@^9.2.0:
+  version "9.2.0"
+  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.0.tgz#a26da8e832b16a9753309f25e35e3c0efb9a066a"
+  integrity sha512-DNc3KFPK18bPdElMJnf/Pkv5TXhxFU3YFDEuGLDRtPmV4rkmCjBkCSEp22u6rBHdSN9Vlp/GK7k98prmE1Jgug==
 
 env-paths@^2.2.0:
   version "2.2.0"
@@ -373,6 +380,11 @@ is-fullwidth-code-point@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz#a3b30a5c4f199183167aaab93beefae3ddfb654f"
   integrity sha1-o7MKXE8ZkYMWeqq5O+764937ZU8=
+
+is-promise@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/is-promise/-/is-promise-4.0.0.tgz#42ff9f84206c1991d26debf520dd5c01042dd2f3"
+  integrity sha512-hvpoI6korhJMnej285dSg6nu1+e6uxs7zG3BYAm5byqDsgJNWwxzM6z6iZiAgQR4TJ30JmBTOwqZUw3WlyH3AQ==
 
 isarray@~1.0.0:
   version "1.0.0"
@@ -759,10 +771,10 @@ yallist@^4.0.0:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
-ytdl-core@^4.4.3:
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/ytdl-core/-/ytdl-core-4.4.3.tgz#d968bbb1d6c7f2d0ed477715e849c53ccd3f0d85"
-  integrity sha512-0GexY2dMk0pvIE0UAB5GPiyaNjiawqDi5eUCUHW7CP1ZNyEco8Lct8/3AsI6aO0EQLGK774ocDvWxOE7W0qrTg==
+ytdl-core@^4.4.4:
+  version "4.4.4"
+  resolved "https://registry.yarnpkg.com/ytdl-core/-/ytdl-core-4.4.4.tgz#d7635dc4ea95965b52589bd3adc6b28368daae22"
+  integrity sha512-/IFJTM5RjN20q6RVaE/9rv9tKoBtx95lKZCI/pUPDiDzu9fXyuPbkVzEQJmsYEwzi0zdv4d6iJy0gHWz49o6mw==
   dependencies:
     m3u8stream "^0.8.3"
     miniget "^4.0.0"
