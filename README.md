@@ -8,7 +8,8 @@ A bot that plays, on Discord audio channels, the amazing sound effects of Brazil
 
 ## Observações
 
-Esse bot ainda está em fase de desenvolvimento, portando bugs e comportamentos inesperados podem ser comuns.
+Esse bot ainda está em fase inicial de desenvolvimento, portando bugs e comportamentos inesperados podem ser comuns. 
+Te convido a participar do projeto comigo :D
 
 ## Link de acesso
 
@@ -149,10 +150,6 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
     >vaias -> Efeito sonoro de vaias -> Genérico
 ```
 
-## Observações
-
-Alguns dos comandos ainda não estão funcionando propriamente :C 
-
 ## Colabore com o projeto
 
 Dúvidas?
@@ -160,6 +157,36 @@ Bugs?
 Sugestões de áudios?
 Quer colaborar com o desenvolvimento do bot?
 
-Se comunique conosco aqui pelo GitHub, ou então pelo meu email [lucasguerratee@gmail.com].
+Se comunique comigo aqui pelo GitHub, ou então pelo meu email [lucasguerratee@gmail.com].
 
-Obrigado por utilizar Xaropinho Bot!!!
+## Para colaborar
+
+### Primeiros passos
+
+```
+git clone https://github.com/LucasGuerraCavalcante/xaropinho-bot.git
+```
+
+```
+yarn install
+```
+
+### Para testar seu bot localmente
+
+Gere uma chave para seu bot de teste
+
+https://discord.com/login?redirect_to=%2Fdevelopers
+
+Crie um arquivo ```.env``` na pasta raíz do projeto e coloque sua chave lá.
+
+```
+DISCORD_TOKEN=SUA_CHAVE_DO_BOT_DE_TESTE_AQUI
+```
+
+### Rodando o projeto
+
+```
+node main.js
+```
+
+Por fim, adicione seu bot teste a algum servidor do Discord.
