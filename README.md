@@ -13,7 +13,7 @@ Te convido a participar do projeto comigo :D
 
 ## Link de acesso
 
-Com [esse link](https://discord.com/api/oauth2/authorize?client_id=801642174093590538&permissions=3665472&scope=bot) é possível adicionar o bot a outros servidores. Além de poder compartilhar o bot com seus amigos.
+Com [esse link](https://discord.com/api/oauth2/authorize?client_id=801642174093590538&permissions=3665472&scope=bot) é possível adicionar o bot aos seus servidores. Além de poder compartilhar o bot com seus amigos.
 
 ## Como utilizá-lo
 
