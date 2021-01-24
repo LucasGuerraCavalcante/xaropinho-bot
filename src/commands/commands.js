@@ -1,8 +1,9 @@
 
 const { prefix } = require('../utils/config.json');
 
-module.exports = {
+// Lista de comandos e funcionalidades de cada comando
 
+module.exports = {
     "commandsArray": [
         `${prefix}ajuda`,
         `${prefix}uepa`,

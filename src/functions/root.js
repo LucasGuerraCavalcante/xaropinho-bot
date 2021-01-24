@@ -1,7 +1,11 @@
 
+// Funcoes que fazem a base a funcao princial / Fazem os audios tocarem
+
 const ytdl = require('ytdl-core');
 
 const queue = new Map();
+
+// ------------------------------------------------------------------------------------
 
 async function play(guild, audio) {
     const serverQueue = queue.get(guild.id);
@@ -22,6 +26,8 @@ async function play(guild, audio) {
 
     dispatcher.setVolumeLogarithmic(serverQueue.volume / 8);
 } 
+
+// ------------------------------------------------------------------------------------
 
 // Root Function
 
