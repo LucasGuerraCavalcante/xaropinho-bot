@@ -19,10 +19,10 @@ module.exports = {
         `${prefix}camisa`,
         `${prefix}aleluia`,
         `${prefix}suspense`,
-        `${prefix}ronaldo`, // <--- Problema
+        `${prefix}ronaldo`, 
         `${prefix}patrao`,  // <--- Problema
         `${prefix}non-ecziste`, 
-        `${prefix}danca`, // <--- Problema
+        `${prefix}danca`,
         `${prefix}brasil`,
         `${prefix}corneta`, 
         `${prefix}coracao`, 
@@ -35,7 +35,7 @@ module.exports = {
         `${prefix}perdeutudo`, // <--- Problema
         `${prefix}telesena`,
         `${prefix}piao-sbt`,
-        `${prefix}ai`, // <--- Problema
+        `${prefix}ai`, 
         `${prefix}coice`,
         `${prefix}brincadeira`,
         `${prefix}chaves-xylophone`,
@@ -113,8 +113,8 @@ module.exports = {
         },
         {
             "key": "ronaldo",
-            "message":"Infelizmente esse comando está temporariamente insdisponível",
-            "url":"https://www.youtube.com/watch?v=oabpxqp0zYQ"
+            "message":"...ronaldo",
+            "url":"https://www.youtube.com/watch?v=BcTmsC5OTyQ"
         },
         {
             "key": "patrao",
@@ -128,8 +128,8 @@ module.exports = {
         },
         {
             "key": "danca",
-            "message":"Infelizmente esse comando está temporariamente insdisponível",
-            "url":"https://www.youtube.com/watch?v=OutIegT8HBg"
+            "message":"Dança gatinho, dança",
+            "url":"https://www.youtube.com/watch?v=9TjqvTFBTFU"
         },
         {
             "key": "brasil",
@@ -193,8 +193,8 @@ module.exports = {
         },
         {
             "key": "ai",
-            "message":"Infelizmente esse comando está temporariamente insdisponível",
-            "url":"https://www.youtube.com/watch?v=npYVf0gRgb0"
+            "message":"Aiiiii!!!!",
+            "url":"https://www.youtube.com/watch?v=s-9gT1y2bYk"
         },
         {
             "key": "coice",

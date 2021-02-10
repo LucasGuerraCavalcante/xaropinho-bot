@@ -14,7 +14,7 @@
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.2.7",
     "fluent-ffmpeg": "^2.1.2",
-    "ytdl-core": "^4.4.3"
+    "ytdl-core": "^4.4.4"
   },
   "author": "LucasGuerraCavalcante",
   "license": "MIT",
