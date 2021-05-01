@@ -84,7 +84,7 @@ Bugs?
 Sugestões de áudios?
 Quer colaborar com o desenvolvimento do bot?
 
-Se comunique comigo aqui pelo GitHub, ou então pelo meu email [lucasguerratee@gmail.com].
+Se comunique comigo aqui pelo GitHub, ou então pelo meu email [suportedoxaropinho@gmail.com].
 
 ## Para colaborar
 
