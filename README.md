@@ -1,7 +1,5 @@
 # Xaropinho Bot
 
-TEMPORARIAMENTE FORA DO AR - Espero poder voltar em breve
-
 ## Descrição / Description
 
 Apenas um bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira (e outros programas também).
@@ -76,6 +74,7 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >telesena | Música da Tele Sena   | Silvio Santos   |
 |  >uepa | Grito UEPA   | Ratinho    |
 |  >vaias | Efeito sonoro de vaias   | Genérico    |
+|  >zap | Notificação Whatsapp   | Whatsapp    |
 
 ## Colabore com o projeto
 
