@@ -4,7 +4,9 @@
   "main": "main.js",
   "description": "Bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira.",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "lint": "eslint src --ext .js",
+    "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
@@ -35,5 +37,14 @@
   "engines": {
     "node": "12.x",
     "npm": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.25.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1",
+    "prettier-eslint-cli": "^5.0.1"
   }
 }
