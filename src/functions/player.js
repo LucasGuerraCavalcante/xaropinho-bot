@@ -1,8 +1,7 @@
-
 // Detector de mensagens do chat / funcao principal da aplicacao
 
 const { prefix, eyeEmoji } = require('../utils/config.json');
-const { commandsArray, commandsData } = require('../commands/commands.js');
+const { commandsArray, commandsData } = require('../commands/audios.js');
 
 const rootFunctions = require('./root');
 const ajudaEmbed = require('../commands/ajuda.js');
@@ -11,40 +10,36 @@ const queue = new Map();
 
 // ------------------------------------------------------------------------------------
 
-module.exports = { 
+module.exports = {
+	async handleOnMessageReceived(receivedMessage) {
 
-  async soundEffectsPlayer(receivedMessage) {
+		if (receivedMessage.author.bot) return;
 
-    if (receivedMessage.author.bot) return;
+		if (!receivedMessage.content.startsWith(prefix)) return;
 
-    if (!receivedMessage.content.startsWith(prefix)) return;
+		const serverQueue = queue.get(receivedMessage.guild.id);
+		const receivedContentString = receivedMessage.content;
 
-    const serverQueue = queue.get(receivedMessage.guild.id);
+		if (receivedContentString.startsWith(`${prefix}ajuda`)) {
+			receivedMessage.channel.send(ajudaEmbed);
+			return;
+		}
 
-    const receivedContentString = receivedMessage.content;
+		if (commandsArray.includes(receivedContentString)) {
+			const commandIndex = commandsArray.indexOf(receivedContentString);
 
-    if (receivedContentString.startsWith(`${prefix}ajuda`)) {
-      receivedMessage.channel.send(ajudaEmbed);
-      return;
-    }
-
-    if (commandsArray.includes(receivedContentString)) {
-
-      commandIndex = commandsArray.indexOf(receivedContentString);
-
-      receivedMessage.reply(eyeEmoji);
-
-      rootFunctions.execute(
-        receivedMessage, 
-        serverQueue, 
-        commandsData[commandIndex].message, 
-        commandsData[commandIndex].url
-      );
-      return;
-    } 
-    else {
-        receivedMessage.reply("Nheeeee.... Comando inválido!");
-        receivedMessage.reply("Digite >ajuda para mais informaçãoes!");
-    }
-  }
-}
+			receivedMessage.reply(eyeEmoji);
+			rootFunctions.execute(
+				receivedMessage,
+				serverQueue,
+				commandsData[commandIndex].message,
+				commandsData[commandIndex].url,
+			);
+			return;
+		}
+		else {
+			receivedMessage.reply('Uêpa!!! Comando inválido!');
+			receivedMessage.reply('>ajuda para mais informaçãoes!');
+		}
+	},
+};
