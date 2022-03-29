@@ -1,5 +1,7 @@
 # Xaropinho Bot
 
+PARADO POR ENQUANTO, PRETENDO VOLTAR EM BREVE
+
 ## Descrição / Description
 
 Apenas um bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira (e outros programas também).
