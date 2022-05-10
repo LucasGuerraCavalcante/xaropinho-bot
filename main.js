@@ -2,12 +2,10 @@ const Discord = require('discord.js');
 
 require('dotenv').config();
 
-const commands = require('./src/functions/player');
+const { handleOnMessageReceived } = require('./src/handlers/chat/index.js');
 const bot_token = process.env.DISCORD_TOKEN;
 
 const client = new Discord.Client();
-
-// -------------------------------------------------------------------------------------------------
 
 client.once('ready', () => {
 	console.log(`Connected as ${client.user.tag}`);
@@ -23,8 +21,4 @@ client.once('disconnect', () => {
 
 client.login(bot_token);
 
-// -------------------------------------------------------------------------------------------------
-
-client.on('message', recivedMessage => commands.handleOnMessageReceived(recivedMessage));
-
-// -------------------------------------------------------------------------------------------------
+client.on('message', receivedMessage => handleOnMessageReceived(receivedMessage));

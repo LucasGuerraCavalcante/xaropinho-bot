@@ -1,7 +1,5 @@
 /* eslint-disable no-inline-comments */
-const { prefix } = require('../utils/config.json');
-
-// Lista de comandos e funcionalidades de cada comando
+const { prefix } = require('./config/config.json');
 
 module.exports = {
 	'commandsArray': [
@@ -84,12 +82,12 @@ module.exports = {
 		},
 		{
 			'key': 'irra',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=0h5c3AKT2so',
 		},
 		{
 			'key': 'queisso',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=ou3BlCaj1DM',
 		},
 		{
@@ -119,7 +117,7 @@ module.exports = {
 		},
 		{
 			'key': 'patrao',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=KFdFEGpFXyg',
 		},
 		{
@@ -164,22 +162,22 @@ module.exports = {
 		},
 		{
 			'key': 'ratinho',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=fOMf7SNDKrY',
 		},
 		{
 			'key': 'papelao',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=US9QhKiEg6w',
 		},
 		{
 			'key': 'rodaaroda',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=KAle05huxKs',
 		},
 		{
 			'key': 'perdeutudo',
-			'message':'Infelizmente esse comando está temporariamente insdisponível',
+			'message':'Infelizmente esse comando está temporariamente indisponível',
 			'url':'https://www.youtube.com/watch?v=g2L1TJFALd4',
 		},
 		{
