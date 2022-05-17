@@ -18,7 +18,7 @@ async function handleAudioCommand(receivedMessage, messageContent, serverQueue, 
 
 		queue.set(guildId, newServerQueue);
 
-		addAudioToQueue(serverQueue, audioData);
+		addAudioToQueue(newServerQueue, audioData);
 
 		try {
 			const connection = await voiceChannel.join();
