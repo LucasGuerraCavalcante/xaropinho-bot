@@ -6,6 +6,8 @@ const {
 	handleInvalidCommand,
 } = require('./methods/index.js');
 
+const { eyeEmoji } = require('../../commands/config/config.json');
+
 const { handleOnAudioCommandReceived } = require('../audio/index.js');
 
 const queue = new Map();
@@ -21,6 +23,8 @@ module.exports = {
 					handleHelpCommand(receivedMessage);
 				}
 				else {
+					receivedMessage.reply(eyeEmoji);
+
 					handleOnAudioCommandReceived(
 						receivedMessage,
 						messageContent,
