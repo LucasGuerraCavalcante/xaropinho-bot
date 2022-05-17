@@ -60,7 +60,6 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >danca |  Áudio Dança gatinho, Dança   | Rodrigo Faro    |
 |  >gato | Barulho de Gato   | Pânico na TV   |
 |  >irra | Grito IIHHAAAA!!!   | Ratinho / Rodrigo Faro    |
-|  >non-ecziste | Áudio Isto Non Ecziste   | Ratinho / Padre Quevedo     |
 |  >papelao | Áudio Que papelão hein?!   | Rodrigo Faro    |
 |  >pare | Grito PARE!   | Rodrigo Faro    |
 |  >patrao | Áudio Esse é meu patrão hein?!   | Ratinho   |
@@ -71,12 +70,13 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >ratinho | Áudio Ratinhooooo | Ratinho    |
 |  >rodaaroda | Efeito sonoro roda a roda  | Silvio Santos    |
 |  >ronaldo | Ronaldo   | Pânico na TV    |
-|  >suspense | Música de suspense   | Genérico    |
 |  >tarzan | Áudio filme antigo do Tarzan   | Genérico   |
 |  >telesena | Música da Tele Sena   | Silvio Santos   |
 |  >uepa | Grito UEPA   | Ratinho    |
 |  >vaias | Efeito sonoro de vaias   | Genérico    |
 |  >zap | Notificação Whatsapp   | Whatsapp    |
+|  >ele-gosta | Áudio ele gosta   | Rodrigo Faro     |
+|  >olha-ele-ae | Áudio olha ele ae  | Rodrigo Faro     |
 
 ## Colabore com o projeto
 
