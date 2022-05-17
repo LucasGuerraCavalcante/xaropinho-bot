@@ -11,15 +11,14 @@ module.exports = {
 		`${prefix}aoow`,
 		`${prefix}rapaz`,
 		`${prefix}gato`,
-		`${prefix}irra`, // <--- Problema
-		`${prefix}queisso`, // <--- Problema
+		`${prefix}irra`,
+		`${prefix}queisso`,
 		`${prefix}bombeiro`,
 		`${prefix}camisa`,
 		`${prefix}aleluia`,
 		`${prefix}suspense`,
 		`${prefix}ronaldo`,
-		`${prefix}patrao`, // <--- Problema
-		`${prefix}non-ecziste`,
+		`${prefix}patrao`,
 		`${prefix}danca`,
 		`${prefix}brasil`,
 		`${prefix}corneta`,
@@ -27,12 +26,11 @@ module.exports = {
 		`${prefix}aplausos`,
 		`${prefix}vaias`,
 		`${prefix}tarzan`,
-		`${prefix}ratinho`, // <--- Problema
-		`${prefix}papelao`, // <--- Problema
-		`${prefix}rodaaroda`, // <--- Problema
-		`${prefix}perdeutudo`, // <--- Problema
+		`${prefix}ratinho`,
+		`${prefix}papelao`,
+		`${prefix}rodaaroda`,
 		`${prefix}telesena`,
-		`${prefix}piao-sbt`,
+		`${prefix}peao-sbt`,
 		`${prefix}ai`,
 		`${prefix}coice`,
 		`${prefix}brincadeira`,
@@ -40,6 +38,8 @@ module.exports = {
 		`${prefix}chaves-pancada`,
 		`${prefix}chaves-risada`,
 		`${prefix}zap`,
+		`${prefix}ele-gosta`,
+		`${prefix}olha-ele-ae`,
 	],
 	'commandsData': [
 		{
@@ -73,7 +73,7 @@ module.exports = {
 		{
 			'key': 'rapaz',
 			'message':'Rapaaaaiz',
-			'url':'https://www.youtube.com/watch?v=Jvl0L9GRH6o',
+			'url':'https://www.youtube.com/watch?v=HXYNW0ft5o4',
 		},
 		{
 			'key': 'gato',
@@ -82,12 +82,12 @@ module.exports = {
 		},
 		{
 			'key': 'irra',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
-			'url':'https://www.youtube.com/watch?v=0h5c3AKT2so',
+			'message':' 🤠 ',
+			'url':'https://www.youtube.com/watch?v=uaKKjT_d0jI',
 		},
 		{
 			'key': 'queisso',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
+			'message':'Que isso meu filho, calma!',
 			'url':'https://www.youtube.com/watch?v=ou3BlCaj1DM',
 		},
 		{
@@ -98,7 +98,7 @@ module.exports = {
 		{
 			'key': 'camisa',
 			'message':'TIRA A CAMISA!!!',
-			'url':'https://www.youtube.com/watch?v=2iqiFz_KGwU',
+			'url':'https://www.youtube.com/watch?v=4BNsD-6I3s4',
 		},
 		{
 			'key': 'aleluia',
@@ -108,7 +108,7 @@ module.exports = {
 		{
 			'key': 'suspense',
 			'message':' 😮  ',
-			'url':'https://www.youtube.com/watch?v=GS7tHGWMDS4',
+			'url':'https://www.youtube.com/watch?v=nNrliAV85NM',
 		},
 		{
 			'key': 'ronaldo',
@@ -117,13 +117,8 @@ module.exports = {
 		},
 		{
 			'key': 'patrao',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
+			'message':'Eeeesse é meu patrão hehehehei',
 			'url':'https://www.youtube.com/watch?v=KFdFEGpFXyg',
-		},
-		{
-			'key': 'non-ecziste',
-			'message':'Isto Non Ecziste...',
-			'url':'https://www.youtube.com/watch?v=gDbiVwKSxdQ',
 		},
 		{
 			'key': 'danca',
@@ -137,7 +132,7 @@ module.exports = {
 		},
 		{
 			'key': 'corneta',
-			'message':'....',
+			'message':' 🎺 ',
 			'url':'https://www.youtube.com/watch?v=s4rmbuQGdgQ',
 		},
 		{
@@ -147,12 +142,12 @@ module.exports = {
 		},
 		{
 			'key': 'aplausos',
-			'message':'Clap clap clap...',
+			'message':' 👏 👏 👏 ',
 			'url':'https://www.youtube.com/watch?v=ajJX8ZGXIxo',
 		},
 		{
 			'key': 'vaias',
-			'message':'Bhuuu...',
+			'message':'Bhuuu... Bhuuu... Bhuuu...',
 			'url':'https://www.youtube.com/watch?v=pvGtop2Sf-4',
 		},
 		{
@@ -162,32 +157,27 @@ module.exports = {
 		},
 		{
 			'key': 'ratinho',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
-			'url':'https://www.youtube.com/watch?v=fOMf7SNDKrY',
+			'message':'RratinhooOOoooOOoo...',
+			'url':'https://www.youtube.com/watch?v=-d6wB4KyuUk',
 		},
 		{
 			'key': 'papelao',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
+			'message':'Que papelão hein kkkkkkkk',
 			'url':'https://www.youtube.com/watch?v=US9QhKiEg6w',
 		},
 		{
 			'key': 'rodaaroda',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
-			'url':'https://www.youtube.com/watch?v=KAle05huxKs',
-		},
-		{
-			'key': 'perdeutudo',
-			'message':'Infelizmente esse comando está temporariamente indisponível',
-			'url':'https://www.youtube.com/watch?v=g2L1TJFALd4',
+			'message':'Quem quer dinheiro???!!!',
+			'url':'https://www.youtube.com/watch?v=f8qspc1aspE',
 		},
 		{
 			'key': 'telesena',
-			'message':'É tele é tele é tele senaaaa! eu vou ganhar, na telesena!',
+			'message':'Quem quer dinheiro???!!!',
 			'url':'https://www.youtube.com/watch?v=UtKKg6wvW1I',
 		},
 		{
-			'key': 'piao-sbt',
-			'message':'Pião da Casa Própria - Silvio Santos - SBT',
+			'key': 'peao-sbt',
+			'message':'Quem quer dinheiro???!!!',
 			'url':'https://www.youtube.com/watch?v=f8qspc1aspE',
 		},
 		{
@@ -197,12 +187,12 @@ module.exports = {
 		},
 		{
 			'key': 'coice',
-			'message':'Coice do cavalo!',
+			'message':' 🐎 ',
 			'url':'https://www.youtube.com/watch?v=zTEBYSkJeOs',
 		},
 		{
 			'key': 'brincadeira',
-			'message':'É brincadeira, hein!',
+			'message':'É brincadeira, hein!!! 😅 ',
 			'url':'https://www.youtube.com/watch?v=C57kQv_hd40',
 		},
 		{
@@ -217,13 +207,23 @@ module.exports = {
 		},
 		{
 			'key': 'chaves-risada',
-			'message':'kkkkkkkkkkkkkkkkk',
+			'message':'KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK',
 			'url':'https://www.youtube.com/watch?v=Ujt1Q4M43UI',
 		},
 		{
 			'key': 'zap',
-			'message':'zap zap',
+			'message':'zap zap zap zap zap zap zap zap zap zap zap zap',
 			'url':'https://www.youtube.com/watch?v=IUiGbOFjs50',
+		},
+		{
+			'key': 'ele-gosta',
+			'message':' 😏 ',
+			'url':'https://www.youtube.com/watch?v=WFci2lINVE8',
+		},
+		{
+			'key': 'olha-ele-ae',
+			'message':'Olha ele aé!!!',
+			'url':'https://www.youtube.com/watch?v=W8ab00LC-JQ',
 		},
 	],
 };
