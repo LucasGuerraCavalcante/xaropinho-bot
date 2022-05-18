@@ -1,7 +1,5 @@
 # Xaropinho Bot
 
-PARADO POR ENQUANTO, PRETENDO VOLTAR EM BREVE
-
 ## Descrição / Description
 
 Apenas um bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira (e outros programas também).
@@ -47,6 +45,8 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >aplausos | Som de Aplausos  | Genérico    |
 |  >atumalaca | Risada do Atumalaca / Risada do Azulzão   | Ratinho / Genérico    |
 |  >bombeiro | Funk Chama o Bombeiro   | Rodrigo Faro / Mc K9    |
+|  >ele-gosta | Áudio ele gosta   | Rodrigo Faro     |
+|  >olha-ele-ae | Áudio olha ele ae  | Rodrigo Faro     |
 |  >brasil | Áudio Brasil Sil Sil Sil  | Ratinho / Genérico    |
 |  >brincadeira | Áudio É Brincadeira Hein   | Ratinho    |
 |  >camisa | Funk Tira a Camisa   | Rodrigo Faro / Mc Tigrãon    |
@@ -63,7 +63,6 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >papelao | Áudio Que papelão hein?!   | Rodrigo Faro    |
 |  >pare | Grito PARE!   | Rodrigo Faro    |
 |  >patrao | Áudio Esse é meu patrão hein?!   | Ratinho   |
-|  >perdeutudo | Efeito sonoro "Perdeu Tudo"   | Silvio Santos    |
 |  >piao-sbt  | Efeito sonoro pião do SBT   | Silvio Santos    |
 |  >queisso | Áudio Que isso meu filho calme   | Ratinho / Rodrigo Faro    |
 |  >rapaz | Áudio RAPAAAIZ | Ratinho / Xaropinho  |
@@ -75,8 +74,6 @@ Feito isso, basta utilizar ```>comando``` para utilizar algum comando.
 |  >uepa | Grito UEPA   | Ratinho    |
 |  >vaias | Efeito sonoro de vaias   | Genérico    |
 |  >zap | Notificação Whatsapp   | Whatsapp    |
-|  >ele-gosta | Áudio ele gosta   | Rodrigo Faro     |
-|  >olha-ele-ae | Áudio olha ele ae  | Rodrigo Faro     |
 
 ## Colabore com o projeto
 
