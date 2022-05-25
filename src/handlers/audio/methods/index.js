@@ -4,7 +4,7 @@ const queue = new Map();
 const { commandsArray, commandsData } = require('../../../commands/audios.js');
 
 function checkIfHasPermissions(permissions) {
-	return !permissions.has('CONNECT') || !permissions.has('SPEAK');
+	return permissions.has('CONNECT') && permissions.has('SPEAK');
 }
 
 async function handleAudioCommand(receivedMessage, messageContent, serverQueue, voiceChannel) {
