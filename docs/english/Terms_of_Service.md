@@ -16,7 +16,7 @@ Xaropinho Bot is a bot that reproduces, when requested by the user, on Discord s
 
 * By using Xaropinho Bot, you are accepting our Privacy Policy and our Terms of Service.
 
-	Privacy Policy: 
+	Privacy Policy: [here!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/english/Privacy_Policy.md)
 
 * Xaropinho Bot is not intended to be used as a tool to harm others. Do not use the bot to harm yourself, or others. 
 
