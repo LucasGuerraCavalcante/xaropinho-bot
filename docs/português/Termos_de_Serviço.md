@@ -16,7 +16,7 @@ O Xaropinho Bot é um bot que reproduz, quando solicitado pelo usuário, nos can
 
 * Ao utilizar o Xaropinho Bot, você está aceitando nossa Política de Privacidade e nossos Termos de Serviço.
 
-	Política de Privacidade:
+	Política de Privacidade: [aqui!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/portugu%C3%AAs/Pol%C3%ADtica_de_Privacidade.md)
 
 * O Xaropinho Bot não se destina a ser usado como ferramenta para prejudicar outras pessoas. Não use o bot para prejudicar a si mesmo ou aos outros.
 
