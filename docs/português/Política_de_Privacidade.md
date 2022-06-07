@@ -10,7 +10,7 @@ Por isso, convidamos você a ler atentamente nossa Política de Privacidade.
 
 * Ao utilizar o Xaropinho Bot, você está aceitando nossa Política de Privacidade e nossos Termos de Serviço.
 
-	Termos de serviço:
+	Termos de serviço: [aqui!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/portugu%C3%AAs/Termos_de_Servi%C3%A7o.md)
 
 ### O que o Xaropinho coleta:
 
