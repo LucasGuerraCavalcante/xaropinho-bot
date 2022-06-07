@@ -19,13 +19,13 @@ Leia atentamente os nossos Termos de Serviço e Política de Privacidade. / Read
 
 Português
 
-* Termos de Serviço:
-* Política de Privacidade:
+* Termos de Serviço: [aqui!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/portugu%C3%AAs/Termos_de_Servi%C3%A7o.md)
+* Política de Privacidade: [aqui!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/portugu%C3%AAs/Pol%C3%ADtica_de_Privacidade.md)
 
 English
 
-* Terms of Service:
-* Privacy Policy: 
+* Terms of Service: [here!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/english/Terms_of_Service.md)
+* Privacy Policy: [here!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/english/Privacy_Policy.md)
 
 ## Link de acesso
 
