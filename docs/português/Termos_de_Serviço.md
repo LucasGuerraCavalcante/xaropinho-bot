@@ -2,7 +2,7 @@
 
 Última atualização: 6 de junho de 2022
 
-Os Termos de Serviço servem como um guia para os usuários utilizarem nossos serviços com facilidade.
+Os Termos de Serviço servem como um guia para os usuários utilizarem nossos serviços com facilidade e de acordo com as regras.
 
 O Xaropinho Bot é um bot que reproduz, quando solicitado pelo usuário, nos canais de áudio dos servidores Discord, efeitos sonoros clássicos disponíveis no YouTube.
 
