@@ -1,10 +1,11 @@
-# Xaropinho Bot
+# Xaropinho Bot 
+## Observações
 
-## Observacoes 
+Estou realizando o processo de verificação do bot para que ele possa ser adicionado em mais de 100 servidores. Espero conseguir resolver isso o mais rápido possível. 
 
-Infelizmente estou tendo dificuldades com a verificação do bot para que ele possa ser adicionado em mais de 100 servidores. O Discord não está aceitando minha solicitação de verificação e, em nenhum momento, eles deixam claro os motivos. Já contactei o suporte deles diversas vezes (praticamente toda semana reenvio os chamados), mas ainda não obtive nenhuma resposta.
+Esse bot ainda está em fase de desenvolvimento, portando bugs e comportamentos inesperados podem ser comuns. 
 
-O bot ainda está em desenvolvimento, ainda tem muita coisa que quero ajustar e melhorar. Qualquer colaboração é bem-vinda.
+Te convido a colaborar com o projeto. Ainda tem muita coisa no projeto que precisar ser melhorada.
 
 ## Descrição / Description
 
@@ -12,16 +13,25 @@ Apenas um bot que reproduz, nos canais de áudio do Discord, os incríveis efeit
 
 A bot that plays, on Discord audio channels, the amazing sound effects of Brazilian television programs.
 
-## Observações
+## Leia por favor / Read please
 
-Esse bot ainda está em fase inicial de desenvolvimento, portando bugs e comportamentos inesperados podem ser comuns. 
-Te convido a participar do projeto comigo :D
+Leia atentamente os nossos Termos de Serviço e Política de Privacidade. / Read our Terms of Service and Privacy Policy.
+
+Português
+
+* Termos de Serviço:
+* Política de Privacidade:
+
+English
+
+* Terms of Service:
+* Privacy Policy: 
 
 ## Link de acesso
 
 Com [esse link](https://discord.com/api/oauth2/authorize?client_id=801642174093590538&permissions=3665472&scope=bot) é possível adicionar o bot aos seus servidores. Além de poder compartilhar o bot com seus amigos.
 
-## Como utilizá-lo
+## Como utilizar
 
 Após conectar o bot a algum servidor do Discord, com o link disponibilizado no tópico anterior, o usuário precisa estar conectado a algum canal de voz. Além disso, o bot precisa de permissão, tanto para falar, quanto para se conectar, no canal de voz em questão.
 
