@@ -1,5 +1,11 @@
 # Xaropinho Bot
 
+## Observacoes 
+
+Infelizmente estou tendo dificuldades com a verificação do bot para que ele possa ser adicionado em mais de 100 servidores. O Discord não está aceitando minha solicitação de verificação e, em nenhum momento, eles deixam claro os motivos. Já contactei o suporte deles diversas vezes (praticamente toda semana reenvio os chamados), mas ainda não obtive nenhuma resposta.
+
+O bot ainda está em desenvolvimento, ainda tem muita coisa que quero ajustar e melhorar. Qualquer colaboração é bem-vinda.
+
 ## Descrição / Description
 
 Apenas um bot que reproduz, nos canais de áudio do Discord, os incríveis efeitos sonoros da sonoplastia dos programas de auditório da televisão brasileira (e outros programas também).
