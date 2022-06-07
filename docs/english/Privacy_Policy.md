@@ -10,7 +10,7 @@ Because of that, we invite you to read carefully our Privacy Policy.
 
 * By using Xaropinho Bot, you are accepting our Privacy Policy and our Terms of Service.
 
-	Terms of Service: 
+	Terms of Service: [here!](https://github.com/LucasGuerraCavalcante/xaropinho-bot/blob/main/docs/english/Terms_of_Service.md)
 
 ### What does Xaropinho collects:
 
